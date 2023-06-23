@@ -1,0 +1,6 @@
+projectKey=com.acc.lkm.maven:mavenDemo2
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/com.acc.lkm.maven:mavenDemo2
+ceTaskId=AYjndAF_eeBS5jqY3_m1
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYjndAF_eeBS5jqY3_m1
